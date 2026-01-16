@@ -1,200 +1,139 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jianyu An",
+    "label": "Computer Science",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jianyu34@umd.edu",
+    "phone": "",
+    "url": "https://furrrow.github.io/",
+    "summary": "Computer Science PhD Student at University of Maryland, College Park",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "MD 20910",
+      "city": "Silver Spring",
       "countryCode": "US",
-      "region": "California"
+      "region": "Maryland"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "Jianyu An",
+        "url": "https://www.linkedin.com/in/jianyu-an-5500b779/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "UMD GAMMA Lab",
+      "position": "Graduate Student",
+      "url": "https://gamma.umd.edu/",
+      "startDate": "Aug 2024"
+    },
+    {
+      "name": "Skyline Nav AI",
+      "position": "AI Researcher",
+      "url": "https://www.skylinenav.com/",
+      "startDate": "May 2025",
+      "endDate": "Aug 2025",
+      "summary": "Experimented with various state of the art vision based localization methods for UAVs in GPS denied environments"
+    },
+    {
+      "name": "Naval Air Warfare Center, Patuxent River, MD",
+      "position": "AI Engineer",
+      "url": "https://www.navair.navy.mil/nawcad/",
+      "startDate": "Aug 2016",
+      "endDate": "Dec 2024",
+      "summary": "Various positions covering Test and Evaluation (T&E) of flight systems, Statistical trade studies using DoD Simulations, and Various Science and Technology (S&T) Projects",
+      "highlights": [
+        "AI Researcher, Autonomy and AI Applications Division",
+        "Operations Research Analyst, Mission Engineering and Analysis Division",
+        "Flight Test Engineer: JSF Program"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Emergency Medical Technitian",
+      "location": "Lexington Park, Marlyand",
+      "position": "PC (provider in charge)",
+      "url": "https://lpvrs.org/",
+      "startDate": "Sep 2016",
+      "endDate": "Sep 2020",
+      "summary": "Volunteered at a local EMS station during my time at Lexington Park",
+      "highlights": ["EMT-B certification"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Maryland",
+      "location": "College Park, Maryland",
+      "url": "https://www.cs.umd.edu/",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "startDate": "Aug 2024"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "institution": "Georgia Institute of Technology",
+      "location": "Atlanta, Georgia",
+      "url": "https://omscs.gatech.edu/",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "Jan 2020",
+      "endDate": "Dec 2023"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "Virginia Polytechnic Institute and State University",
+      "location": "Blacksburg, Virginia",
+      "url": "https://www.vt.edu/",
+      "area": "Engineerng Science and Mechanics",
+      "studyType": "B.S.",
+      "startDate": "Sep 2012",
+      "endDate": "May 2016"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "SAFE-SMART: Safety Analysis and Formal Evaluation using STL Metrics for Autonomous RoboTs.",
+      "authors": "Sakano, K., An, J., Mockler,J., Xu, H., Manocha, D.",
+      "publisher": "under review",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2511.17781",
+      "summary": "Our first work incorporating Signal Temporal Logic (STL) specifications into training mobile robots to provide better compliance with safety rules."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "HALO: Human Preference Aligned Offline Reward Learning for Robot Navigation",
+      "authors": "Seneviratne, G., An, J., Ellahy, S., Weerakoon, K., Elnoor, M.B., Kannan, J.D., Sunil, A.T., Manocha, D.",
+      "publisher": "Conference on Robot Learning (CoRL), Seoul, Korea",
+      "releaseDate": "2025",
+      "url": "https://gamma.umd.edu/researchdirections/crowdmultiagent/halo",
+      "summary": "We used offline reinforcement learning to learn human intuition in navigation. This learned reward function was used to guide robot navigation."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "AI Training Framework for a Medium Fidelity Environment.",
+      "authors": "An, J., Ortiz, A.,",
+      "publisher": "Naval Applications of Machine Learning (NAML), San Diego, CA",
+      "releaseDate": "2022",
+      "summary": "(Link unavailable) We developed a machine learning plugin to communicate with agents inside a DoD simulation. Using this plugin, we were able to train competing machine learning agents in the simulation environment"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "Capillary spreading of contact line over a sinking sphere",
+      "authors": "Kim, S. J., Fezzaa, K., An, J., Sun, T., Jung, S. ",
+      "publisher": "Applied Physics Letters",
+      "releaseDate": "2017",
+      "url": "https://pubs.aip.org/aip/apl/article/111/13/134102/34008/Capillary-spreading-of-contact-line-over-a-sinking",
+      "summary": "We explored contact line dynamics over a sinking solid sphere."
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computer Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Navigation",
+        "Reinforcement Learning",
+        "Alignment",
+        "Test and Evaluation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
