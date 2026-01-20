@@ -36,6 +36,7 @@ Here we will give you some tips on how to customize the website. One important t
   - [Setting up a Personal Access Token (PAT) for Google Scholar Citation Updates](#setting-up-a-personal-access-token-pat-for-google-scholar-citation-updates)
     - [Why is a PAT required?](#why-is-a-pat-required)
     - [How to set up the PAT](#how-to-set-up-the-pat)
+    - [Personal notes:](#personal-notes)
 
 <!--te-->
 
@@ -392,3 +393,10 @@ GitHub restricts the default `GITHUB_TOKEN` from triggering other workflows when
 
 3. **Workflow usage**
    The workflow `.github/workflows/update-citations.yml` uses this PAT to commit updates to `_data/citations.yml`.
+
+
+### Personal notes:
+this repo organization is quite confusing...
+- the resume is located in assets/json/resume.json
+- the redacted resume is in assets/pdf/resume_redacted.pdf
+- 

@@ -1,4 +1,5 @@
 ---
+# ! DISABLED ! #
 layout: book-shelf
 title: bookshelf
 permalink: /books/
