@@ -44,15 +44,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/teaching/";
               },
-            },{id: "post-a-distill-style-blog-post",
+            },{id: "post-furrrow",
         
-          title: "a distill-style blog post",
+          title: "furrrow",
         
-        description: "an example of a distill-style blog post and main elements",
+        description: "my first post",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/new/";
+            window.location.href = "/blog/2026/furrrow/";
           
         },
       },{id: "books-the-godfather",
