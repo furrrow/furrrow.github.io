@@ -399,4 +399,5 @@ GitHub restricts the default `GITHUB_TOKEN` from triggering other workflows when
 this repo organization is quite confusing...
 - the resume is located in assets/json/resume.json
 - the redacted resume is in assets/pdf/resume_redacted.pdf
-- 
+
+- Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.

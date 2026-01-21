@@ -24,8 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Greetings! You have reached the webpage of Jim An. I am a Computer Science PhD Student at the University of Maryland. I found my home at the UMD <a href='https://gamma.umd.edu/'>GAMMA lab</a> where we do some cool research with robotics!
+Greetings! You have reached the webpage of Jim An. I am a Computer Science PhD Student at the University of Maryland. My interest lies in the intersection of Autonomy, Machine Learning and Alignment. I found my academic home here at the UMD <a href='https://gamma.umd.edu/'>GAMMA lab</a> where we do some cool research with robotics! Prior to returning to academia, I was an Engineer at the <a href='https://www.navair.navy.mil/nawcad/'>NAWCAD</a>. Please feel free to check out my cv or various social links at the end of this page.
 
-As someone aspiring to be a great researcher, I aim to log any products of my journey here. May you find this page useful, informative or entertaining.
-
-Please feel free to check out my social/academic media pages at the bottom of this site. 
+As part of my journey to become a better researcher, I aim to blog anything I find interesting or potentially helpful. May you find my ramblings useful, informative or at least entertaining. 
