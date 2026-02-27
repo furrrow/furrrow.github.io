@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-02-27'
 papers:
   -khTJoYAAAAJ:2osOgNQ5qMEC:
     citations: 3
     title: Bio-Inspired Robotic Undulatory Stingray
     year: '2016'
   -khTJoYAAAAJ:9yKSN-GCB0IC:
-    citations: 0
+    citations: 1
     title: 'HALO: Human Preference Aligned Offline Reward Learning for Robot Navigation'
     year: '2025'
   -khTJoYAAAAJ:d1gkVwhDpl0C:
