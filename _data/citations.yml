@@ -1,14 +1,18 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-04-08'
 papers:
   -khTJoYAAAAJ:2osOgNQ5qMEC:
     citations: 3
     title: Bio-Inspired Robotic Undulatory Stingray
     year: '2016'
   -khTJoYAAAAJ:9yKSN-GCB0IC:
-    citations: 1
+    citations: 3
     title: 'HALO: Human Preference Aligned Offline Reward Learning for Robot Navigation'
     year: '2025'
+  -khTJoYAAAAJ:UeHWp8X0CEIC:
+    citations: 0
+    title: 'CHOP: Counterfactual Human Preference Labels Improve Obstacle Avoidance in Visuomotor Navigation Policies'
+    year: '2026'
   -khTJoYAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Contact line moving over a sinking sphere
