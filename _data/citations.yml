@@ -1,18 +1,30 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-09-23'
 papers:
   -khTJoYAAAAJ:2osOgNQ5qMEC:
     citations: 3
     title: Bio-Inspired Robotic Undulatory Stingray
     year: '2016'
   -khTJoYAAAAJ:9yKSN-GCB0IC:
-    citations: 3
-    title: 'HALO: Human Preference Aligned Offline Reward Learning for Robot Navigation'
+    citations: 4
+    title: 'Halo: Human preference aligned offline reward learning for robot navigation'
     year: '2025'
-  -khTJoYAAAAJ:UeHWp8X0CEIC:
+  -khTJoYAAAAJ:IjCSPb-OGe4C:
     citations: 0
+    title: 'Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation'
+    year: '2025'
+  -khTJoYAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: "DRIVE\u2010SAFE: Data\u2010Driven Robustness and Informed Validation for Evolving Specifications via Formal Evaluation"
+    year: '2026'
+  -khTJoYAAAAJ:UeHWp8X0CEIC:
+    citations: 2
     title: 'CHOP: Counterfactual Human Preference Labels Improve Obstacle Avoidance in Visuomotor Navigation Policies'
     year: '2026'
+  -khTJoYAAAAJ:Y0pCki6q_DkC:
+    citations: 1
+    title: 'ROVER: Regulator-Driven Robust Temporal Verification of Black-Box Robot Policies'
+    year: '2025'
   -khTJoYAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Contact line moving over a sinking sphere
@@ -25,3 +37,7 @@ papers:
     citations: 13
     title: Capillary spreading of contact line over a sinking sphere
     year: '2017'
+  -khTJoYAAAAJ:zYLM7Y9cAGgC:
+    citations: 1
+    title: 'VEGA: Learning Navigation VLAs from In-the-Wild Egocentric Video with Geometric Trajectory Supervision'
+    year: '2026'

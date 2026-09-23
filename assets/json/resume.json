@@ -3,7 +3,7 @@
     "name": "Jianyu An",
     "label": "Computer Science",
     "image": "",
-    "email": "jianyu34@umd.edu",
+    "email": "jianyu34 @ umd . edu",
     "phone": "",
     "url": "https://furrrow.github.io/",
     "summary": "Computer Science PhD Student at University of Maryland, College Park",
@@ -27,7 +27,14 @@
       "name": "UMD GAMMA Lab",
       "position": "Graduate Student",
       "url": "https://gamma.umd.edu/",
-      "startDate": "Aug 2024"
+      "startDate": "Aug 2024",
+      "endDate": "Dec 2028",
+      "summary": "Vision-based navigation using mobile robots, with a focus on having robots follow explicit safety rules or implicit human preferences.",
+      "highlights": [
+        "Grounding VLA outputs using vision-based depth for better obstacle avoidance.",
+        "Rule compliance in robot navigation by evaluating robot trajectories using Signal Temporal Logic (STL)s",
+        "Collecting a preference dataset for robot navigation for a general navigation reward model"
+      ]
     },
     {
       "name": "Skyline Nav AI",
@@ -53,7 +60,7 @@
   ],
   "volunteer": [
     {
-      "organization": "Emergency Medical Technitian",
+      "organization": "Emergency Medical Technician",
       "location": "Lexington Park, Marlyand",
       "position": "PC (provider in charge)",
       "url": "https://lpvrs.org/",

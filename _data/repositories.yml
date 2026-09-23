@@ -4,9 +4,10 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - furrrow/RL_pytorch
-  - furrrow/CORL
-  - furrrow/turtlebot3_machine_learning
+  - furrrow/custom_utils
+  - furrrow/NaVILA
+  - furrrow/OmniVLA
+  - furrrow/prune
   # - jquery/jquery
   # - FortAwesome/Font-Awesome
   # - mathjax/MathJax
